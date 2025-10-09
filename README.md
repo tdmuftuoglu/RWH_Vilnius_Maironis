@@ -10,7 +10,7 @@ It was applied in the case study of **Vilniaus Maironio Progimnazija**, as prese
 
 ---
 
-## 🚀 Quick start (Colab)
+## Quick start (Colab)
 1. Open `RWH_Vilnius.ipynb` in Google Colab  
 2. Run the single cell  
 3. Upload the Excel file `POWER_Vilnius_Maironis_2000_2025.xlsx` when prompted  
@@ -18,7 +18,7 @@ It was applied in the case study of **Vilniaus Maironio Progimnazija**, as prese
 
 ---
 
-## 📂 Repository structure
+## Repository structure
 - `RWH_Vilnius.ipynb` → One-cell Colab notebook (main pipeline)  
 - `POWER_Vilnius_Maironis_2000_2025.xlsx` → Input dataset (NASA POWER, 2000–2025)  
 - `requirements.txt` → Python dependencies  
@@ -29,7 +29,7 @@ It was applied in the case study of **Vilniaus Maironio Progimnazija**, as prese
 
 ---
 
-## 📊 Outputs
+## Outputs
 - Correlation heatmap (`outputs/Correlation_heatmap.png`)  
 - RWH reliability plots (`outputs/Rv_vs_Tank_*.png`)  
 - SHAP explainability figures (`outputs/SHAP_*.png`)  
@@ -38,7 +38,7 @@ It was applied in the case study of **Vilniaus Maironio Progimnazija**, as prese
 
 ---
 
-## 🔗 Citation
+## Citation
 If you use this code, please cite:  
 
 Muftuoglu, T.D. (2025). *RWH + SHAP Pipeline for Vilniaus Maironio Progimnazija*. GitHub Repository. https://github.com/tdmuftuoglu/RWH_Vilnius_Maironis  
